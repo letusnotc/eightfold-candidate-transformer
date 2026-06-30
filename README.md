@@ -2,7 +2,7 @@
 
 A production-grade pipeline that ingests candidate data from up to five sources simultaneously — Recruiter CSV, ATS JSON, PDF/DOCX Resume, Recruiter Notes, and GitHub profile — normalizes every field, merges them into a single canonical profile, scores confidence, and exposes the result through a clean REST API and interactive web UI.
 
-Built as an Eightfold AI Engineering Assignment by **Arnav Pandey** (IIIT Naya Raipur, 2025 Intern).
+Built as an Eightfold AI Engineering Assignment by **Arnav Pandey** (IIIT Naya Raipur).
 
 ---
 
