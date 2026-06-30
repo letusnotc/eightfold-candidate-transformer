@@ -228,12 +228,23 @@ cd Eightfold-ai
 
 ### 2. Backend setup
 
+Install dependencies from the `api/` folder:
+
 ```bash
 cd api
 pip install -r requirements.txt
+cd ..
 ```
 
-Create a `.env` file (both keys are optional — the pipeline works without them):
+Create a `.env` file in the **root directory** (`Eightfold-ai/`) — this is where the server reads it from:
+
+```
+Eightfold-ai/
+├── .env          <-- create this file here (root level)
+├── api/
+├── pipeline/
+└── ...
+```
 
 ```bash
 # .env
@@ -241,10 +252,10 @@ GEMINI_API_KEY=your_key_here       # enables LLM field mapping for unknown colum
 GITHUB_TOKEN=ghp_your_token_here   # raises GitHub rate limit from 60 to 5000 req/hr
 ```
 
-Start the backend:
+Start the backend from the **root directory** (`Eightfold-ai/`):
 
 ```bash
-uvicorn main:app --reload --port 8000
+uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 The API is now running at `http://localhost:8000`.
@@ -252,7 +263,7 @@ Swagger docs available at `http://localhost:8000/docs`.
 
 ### 3. Frontend setup
 
-Open a second terminal:
+Open a second terminal and navigate to the `frontend/` folder:
 
 ```bash
 cd frontend
