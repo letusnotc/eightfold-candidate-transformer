@@ -1,0 +1,314 @@
+{
+  "profile": {
+    "full_name": "Priya Sharma",
+    "emails": [
+      "priya.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "skills": [
+      {
+        "name": "python",
+        "confidence": 1,
+        "sources": [
+          "csv",
+          "resume_txt",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "tensorflow",
+        "confidence": 1,
+        "sources": [
+          "csv",
+          "resume_txt",
+          "notes",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "mlops",
+        "confidence": 1,
+        "sources": [
+          "csv",
+          "resume_txt",
+          "notes",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "pytorch",
+        "confidence": 0.8999999999999999,
+        "sources": [
+          "resume_txt",
+          "notes",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "gcp",
+        "confidence": 0.8999999999999999,
+        "sources": [
+          "resume_txt",
+          "notes",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "machine-learning",
+        "confidence": 0.7999999999999999,
+        "sources": [
+          "resume_txt",
+          "notes"
+        ]
+      },
+      {
+        "name": "docker",
+        "confidence": 0.7999999999999999,
+        "sources": [
+          "resume_txt",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "kubernetes",
+        "confidence": 0.7999999999999999,
+        "sources": [
+          "resume_txt",
+          "ats_json"
+        ]
+      },
+      {
+        "name": "sql",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "mongodb",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "aws",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "git",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "nlp",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "computer-vision",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "data-science",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "kafka",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "spark",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "airflow",
+        "confidence": 0.7,
+        "sources": [
+          "resume_txt"
+        ]
+      },
+      {
+        "name": "Deep ML stack",
+        "confidence": 0.6,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Senior ML Engineer",
+        "start": "2021-03",
+        "end": null,
+        "summary": null
+      },
+      {
+        "company": "Google India",
+        "title": "Senior ML Engineer",
+        "start": "2021-01",
+        "end": "present",
+        "summary": null
+      },
+      {
+        "company": "Flipkart",
+        "title": "ML Engineer",
+        "start": "2018-06",
+        "end": "2020-12",
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Bombay",
+        "degree": "M.Tech Computer Science",
+        "field": null,
+        "end_year": 2018
+      },
+      {
+        "institution": "NIT Trichy",
+        "degree": "B.Tech Computer Science",
+        "field": null,
+        "end_year": 2016
+      },
+      {
+        "institution": "IIT Bombay",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": "Karnataka",
+      "country": "IN"
+    },
+    "headline": "Senior ML Engineer",
+    "years_experience": 6,
+    "links": {
+      "linkedin": "linkedin.com/in/priyasharma",
+      "github": "github.com/priyasharma",
+      "portfolio": null,
+      "other": []
+    },
+    "_overall_confidence": 0.95,
+    "_provenance": [
+      {
+        "field": "emails",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "location.city",
+        "source": "csv",
+        "method": "heuristic"
+      },
+      {
+        "field": "location.region",
+        "source": "csv",
+        "method": "heuristic"
+      },
+      {
+        "field": "location.country",
+        "source": "csv",
+        "method": "heuristic"
+      },
+      {
+        "field": "links.github",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "csv",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "resume_txt",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "merged",
+        "method": "union"
+      },
+      {
+        "field": "experience",
+        "source": "resume_txt",
+        "method": "heuristic"
+      },
+      {
+        "field": "experience",
+        "source": "resume_txt",
+        "method": "heuristic"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "heuristic"
+      },
+      {
+        "field": "education",
+        "source": "resume_txt",
+        "method": "heuristic"
+      },
+      {
+        "field": "education",
+        "source": "resume_txt",
+        "method": "heuristic"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "heuristic"
+      },
+      {
+        "field": "years_experience",
+        "source": "ats_json",
+        "method": "direct"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "pipeline_errors": [],
+  "sources_used": [
+    "csv",
+    "ats_json",
+    "resume_txt",
+    "notes"
+  ],
+  "unrecognized_fields": {}
+}

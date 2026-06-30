@@ -1,0 +1,77 @@
+[
+  {
+    "applicant_name": "Priya Sharma",
+    "contact_email": "priya.sharma@gmail.com",
+    "mobile": "+91-9876543210",
+    "currentEmployer": "Google",
+    "jobTitle": "Senior ML Engineer",
+    "competencies": ["Python", "TensorFlow", "MLOps", "Docker", "Kubernetes", "PyTorch", "GCP"],
+    "linkedinUrl": "https://linkedin.com/in/priyasharma",
+    "geo": "Bangalore, Karnataka, India",
+    "totalExperience": 6,
+    "githubUrl": "https://github.com/priyasharma",
+    "experience": [
+      { "company": "Google", "title": "Senior ML Engineer", "start": "2021-03", "end": null },
+      { "company": "Flipkart", "title": "ML Engineer", "start": "2018-06", "end": "2021-02" }
+    ],
+    "education": [
+      { "institution": "IIT Bombay", "degree": "B.Tech", "field": "Computer Science", "end_year": 2018 }
+    ]
+  },
+  {
+    "applicant_name": "Vikram Nair",
+    "contact_email": "vikram.nair@infosys.com",
+    "mobile": "+91-2012345678",
+    "currentEmployer": "Infosys",
+    "jobTitle": "Data Scientist",
+    "competencies": ["Python", "R", "Tableau", "SQL", "Spark", "Scikit-learn"],
+    "geo": "Pune, Maharashtra, India",
+    "totalExperience": 5,
+    "githubUrl": "https://github.com/vikramnair",
+    "experience": [
+      { "company": "Infosys", "title": "Data Scientist", "start": "2020-01", "end": null },
+      { "company": "Wipro", "title": "Data Analyst", "start": "2018-07", "end": "2019-12" }
+    ],
+    "education": [
+      { "institution": "NIT Trichy", "degree": "B.Tech", "field": "Electronics", "end_year": 2018 }
+    ]
+  },
+  {
+    "applicant_name": "Zara Ahmed",
+    "contact_email": "zara.ahmed@amazon.com",
+    "mobile": "+91-9900112233",
+    "currentEmployer": "Amazon",
+    "jobTitle": "Software Development Engineer",
+    "competencies": ["Java", "Spring Boot", "AWS", "DynamoDB", "Microservices"],
+    "linkedinUrl": "https://linkedin.com/in/zaraahmed",
+    "geo": "Hyderabad, Telangana, India",
+    "totalExperience": 3,
+    "githubUrl": "https://github.com/zaraahmed",
+    "experience": [
+      { "company": "Amazon", "title": "SDE II", "start": "2022-06", "end": null },
+      { "company": "Infosys", "title": "SDE I", "start": "2021-01", "end": "2022-05" }
+    ],
+    "education": [
+      { "institution": "BITS Pilani", "degree": "B.E.", "field": "Computer Science", "end_year": 2021 }
+    ]
+  },
+  {
+    "applicant_name": "James Wilson",
+    "contact_email": "james.wilson@microsoft.com",
+    "mobile": "+14085551234",
+    "currentEmployer": "Microsoft",
+    "jobTitle": "Principal Engineer",
+    "competencies": ["C#", ".NET", "Azure", "TypeScript", "Kubernetes", "gRPC"],
+    "linkedinUrl": "https://linkedin.com/in/jameswilson",
+    "geo": "Seattle, WA, USA",
+    "totalExperience": 10,
+    "githubUrl": "https://github.com/jameswilson",
+    "experience": [
+      { "company": "Microsoft", "title": "Principal Engineer", "start": "2019-04", "end": null },
+      { "company": "Amazon", "title": "Senior SDE", "start": "2014-08", "end": "2019-03" }
+    ],
+    "education": [
+      { "institution": "University of Washington", "degree": "M.S.", "field": "Computer Science", "end_year": 2014 }
+    ]
+  }
+]

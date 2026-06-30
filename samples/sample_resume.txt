@@ -1,0 +1,32 @@
+Priya Sharma
+priya.sharma@gmail.com | +91 98765 43210
+github.com/priyasharma | linkedin.com/in/priyasharma
+Bangalore, Karnataka, India
+
+SUMMARY
+Senior ML Engineer with 6 years of experience building production ML systems at scale.
+Specialized in NLP, computer vision, and MLOps pipelines.
+Currently based in Bangalore, India. Open to hybrid roles.
+
+EXPERIENCE
+
+Senior ML Engineer — Google India (Jan 2021 - Present)
+Led development of large-scale NLP models serving 100M+ users across South Asia.
+Built end-to-end MLOps pipeline using Kubeflow and Vertex AI on GCP.
+Mentored team of 5 junior engineers in Hyderabad and Bangalore offices.
+Technologies: Python, TensorFlow, PyTorch, Docker, Kubernetes, GCP, Airflow
+
+ML Engineer — Flipkart (Jun 2018 - Dec 2020)
+Developed recommendation systems using collaborative filtering for Indian e-commerce.
+Improved CTR by 23% through A/B tested model deployments.
+Technologies: Python, Spark, Kafka, AWS, Scikit-learn, SQL
+
+EDUCATION
+
+M.Tech Computer Science — IIT Bombay, Mumbai (2018)
+B.Tech Computer Science — NIT Trichy, Tiruchirappalli (2016)
+
+SKILLS
+Python, TensorFlow, PyTorch, Scikit-learn, Docker, Kubernetes,
+GCP, AWS, Spark, Kafka, SQL, MongoDB, Git, Airflow, MLOps,
+Natural Language Processing, Computer Vision, Data Science

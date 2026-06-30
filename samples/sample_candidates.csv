@@ -1,0 +1,6 @@
+name,email,phone,current_company,title,location,linkedin,github,skills,years_experience
+Priya Sharma,priya.sharma@gmail.com,+919876543210,Google,Senior ML Engineer,"Bangalore, Karnataka, India",linkedin.com/in/priyasharma,github.com/priyasharma,"Python,TensorFlow,MLOps",6
+Rohan Mehta,rohan.mehta@outlook.com,+919820123456,Flipkart,Backend Engineer,"Mumbai, Maharashtra, India",linkedin.com/in/rohanmehta,github.com/rohanmehta,"Go,Kafka,PostgreSQL",4
+Ananya Singh,ananya.singh@techcorp.in,+919811234567,TCS,Full Stack Developer,"Delhi, Delhi, India",linkedin.com/in/ananyasingh,,"React,Node.js,MongoDB",3
+Vikram Nair,vikram.nair@infosys.com,+912012345678,Infosys,Data Scientist,"Pune, Maharashtra, India",,github.com/vikramnair,"Python,R,Tableau,SQL",5
+Deepa Krishnan,deepa.k@wipro.com,+914422334455,Wipro,DevOps Engineer,"Chennai, Tamil Nadu, India",linkedin.com/in/deepakrishnan,,"Kubernetes,Terraform,AWS,Jenkins",7

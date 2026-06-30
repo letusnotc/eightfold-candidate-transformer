@@ -1,0 +1,606 @@
+{
+  "profile": {
+    "full_name": "Arnav Pandey",
+    "emails": [
+      "arnav21pandey07@gmail.com"
+    ],
+    "phones": [
+      "+918287305782"
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "machine-learning",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "XGBoost",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "LightGBM",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "CatBoost",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "AutoGluon",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "pytorch",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "tensorflow",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Optuna",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "computer-vision",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "transformers",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "langchain",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Gemini API",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Ollama",
+        "confidence": 0.95,
+        "sources": [
+          "github",
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Jupyter Notebook",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "typescript",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "CSS",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "HTML",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "PLpgSQL",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "PowerShell",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Procfile",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Competitive Programmer",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "AI/ML Developer",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Category",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": ":---",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Languages",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Sentence Embeddings",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "generative-ai",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Backend",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Tools",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "**Tech:** Next.js, MongoDB, Gemini.",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "Voice-based UPI payment system*",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "🔍 Advanced **Computer Vision**",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "🤖 **Multimodal AI systems**",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "🦜 **Large Language Models & AI Agents**",
+        "confidence": 0.85,
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "name": "react",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "mobile",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "deep-learning",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "sql",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "mongodb",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "git",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "fastapi",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "flask",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "cpp",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "c",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "nlp",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "data-science",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "pandas",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "numpy",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "next.js",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "tailwind",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "data-visualization",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "security",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "statistics",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "prometheus",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "websocket",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "CNNs",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "ResNet",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Swin V2",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Supervised Contrastive Learning",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "LangGraph",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Supabase",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Antigravity",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Cursor AI",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Streamlit",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      },
+      {
+        "name": "Vercel",
+        "confidence": 0.7,
+        "sources": [
+          "resume_pdf"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Jun 2026",
+        "title": "QreateAI  Apr 2026",
+        "start": "2026-04",
+        "end": "2026-06",
+        "summary": null
+      },
+      {
+        "company": "Present",
+        "title": "Project Eris By Shipd Feb 2026",
+        "start": "2026-02",
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIIT Naya Raipur",
+        "degree": "B.Tech in Data Science and AI",
+        "field": null,
+        "end_year": 2027
+      }
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": "IN"
+    },
+    "headline": "AI Enthusiast  Competitive Programmer  B.Tech Data Science & AI @ IIIT Naya Raipur  AI/ML Developer  Hackathon Winner",
+    "years_experience": 0.5,
+    "links": {
+      "linkedin": "https://linkedin.com/in/arnav-pandey-96334728a",
+      "github": "https://github.com/letusnotc",
+      "portfolio": null,
+      "other": [
+        "https://www.kaggle.com/arnavsuiiiiiiiiiiii"
+      ]
+    },
+    "_overall_confidence": 0.753,
+    "_provenance": [
+      {
+        "field": "emails",
+        "source": "github",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "resume_pdf",
+        "method": "direct"
+      },
+      {
+        "field": "full_name",
+        "source": "resume_pdf",
+        "method": "direct"
+      },
+      {
+        "field": "location.country",
+        "source": "resume_pdf",
+        "method": "heuristic"
+      },
+      {
+        "field": "links.github",
+        "source": "github",
+        "method": "direct"
+      },
+      {
+        "field": "links.linkedin",
+        "source": "github",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "github",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "merged",
+        "method": "union"
+      },
+      {
+        "field": "experience",
+        "source": "resume_pdf",
+        "method": "heuristic"
+      },
+      {
+        "field": "experience",
+        "source": "resume_pdf",
+        "method": "heuristic"
+      },
+      {
+        "field": "education",
+        "source": "resume_pdf",
+        "method": "heuristic"
+      },
+      {
+        "field": "years_experience",
+        "source": "computed",
+        "method": "heuristic"
+      }
+    ]
+  },
+  "validation_errors": [],
+  "pipeline_errors": [],
+  "sources_used": [
+    "resume_pdf",
+    "github"
+  ],
+  "unrecognized_fields": {}
+}
